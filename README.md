@@ -1,5 +1,7 @@
 # Assignment 1 - Tic Tac Toe
 
+**Authors:** Ofek Saar, Niv Shapira
+
 In this assignment, you need to develop a Tic Tac Toe game.
 
 ## Instructions
